@@ -25,6 +25,11 @@ social:
     link: https://www.linkedin.com/in/iplane787
     display:
       header: false
+  - display:
+      header: false
+    link: https://www.researchgate.net/profile/Jia-Shun-Wang
+    icon_pack: ai
+    icon: researchgate
 organizations:
   - name: Harbin Engineering University
     url: https://english.hrbeu.edu.cn/
@@ -42,7 +47,7 @@ email: wjs@outlook.at
 superuser: true
 highlight_name: true
 ---
-Hi, my name is Jia-Shun Wang (王佳顺). It‘s pronounced as /wang dʒʌ soun/. For convenience, you can call me Jason Wang. 
+Hi, my name is Jia-Shun Wang. For convenience, you can call me Jason Wang. 
 
 I like collecting various websites and the DOIs of paper. I have lots of accounts on the Internet, such as twitter, facebook, github, steam, bilibili...So you can find me everywhere. （｡･ω･｡)つ━☆・*。 
 ResearchID: U-5057-2018 ORCID: 0000-0002-6442-9258
