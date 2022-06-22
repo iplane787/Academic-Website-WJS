@@ -4,7 +4,7 @@ subtitle: Welcome 👋 We know that first impressions are important, so we've
   populated your new site with some initial content to help you get familiar
   with everything in no time.
 date: 2022-06-22T13:54:20.228Z
-summary: ""
+summary: wulala
 draft: false
 featured: false
 authors:
@@ -21,6 +21,7 @@ image:
   placement: 2
   preview_only: false
   filename: featured.jpg
+  alt_text: wulili
 ---
 # 0 前言
 
