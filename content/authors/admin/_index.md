@@ -50,6 +50,26 @@ social:
     icon_pack: ai
     icon: zotero
     link: https://www.zotero.org/muskchina
+  - display:
+      header: false
+    link: https://weibo.com/u/6376943076
+    icon_pack: fab
+    icon: weibo
+  - display:
+      header: false
+    link: https://space.bilibili.com/35066480
+    icon_pack: fab
+    icon: bilibili
+  - display:
+      header: false
+    link: https://wpa.qq.com/msgrd?v=3&uin=1043210554&site=qqq&menu=yes
+    icon_pack: fab
+    icon: qq
+  - display:
+      header: false
+    icon_pack: fab
+    icon: weixin
+    link: https://wjs-pic.oss-cn-qingdao.aliyuncs.com/img/202206222259332.jpg
 organizations:
   - name: Harbin Engineering University
     url: https://english.hrbeu.edu.cn/
