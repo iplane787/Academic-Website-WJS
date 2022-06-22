@@ -11,12 +11,17 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/wang_jiashun
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=wWfLsaIAAAAJ
+  - display:
+      header: false
+    link: https://www.researchgate.net/profile/Jia-Shun-Wang
+    icon_pack: ai
+    icon: researchgate
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/wang_jiashun
   - icon: github
     icon_pack: fab
     link: https://github.com/iplane787
@@ -25,11 +30,6 @@ social:
     link: https://www.linkedin.com/in/iplane787
     display:
       header: false
-  - display:
-      header: false
-    link: https://www.researchgate.net/profile/Jia-Shun-Wang
-    icon_pack: ai
-    icon: researchgate
 organizations:
   - name: Harbin Engineering University
     url: https://english.hrbeu.edu.cn/
