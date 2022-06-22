@@ -1,5 +1,5 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
+title: 互联网上的物理海洋学资讯
 subtitle: Welcome 👋 We know that first impressions are important, so we've
   populated your new site with some initial content to help you get familiar
   with everything in no time.
@@ -11,7 +11,7 @@ draft: false
 featured: false
 authors:
   - Jia-Shun Wang
-lastmod: 2020-12-13T00:00:00Z
+lastmod: 2020-12-13T00:00:00.000Z
 tags:
   - Academic Intelligence
 categories:
