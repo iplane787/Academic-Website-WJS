@@ -70,6 +70,11 @@ social:
     icon_pack: fab
     icon: weixin
     link: https://wjs-pic.oss-cn-qingdao.aliyuncs.com/img/202206222259332.jpg
+  - display:
+      header: false
+    icon_pack: fab
+    icon: zhihu
+    link: https://www.zhihu.com/people/ruo-wei-xiong-cai-23
 organizations:
   - name: Harbin Engineering University
     url: https://english.hrbeu.edu.cn/
