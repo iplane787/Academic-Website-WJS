@@ -52,6 +52,26 @@ social:
     link: https://www.zotero.org/muskchina
   - display:
       header: false
+    icon_pack: fab
+    icon: skype
+    link: https://join.skype.com/invite/DToJACPEnoZR
+  - display:
+      header: false
+    icon_pack: fab
+    icon: telegram
+    link: https://t.me/muskchina
+  - display:
+      header: false
+    icon_pack: fab
+    icon: youtube
+    link: https://www.youtube.com/channel/UCbdUJCL0VpQELU82MHERsBg
+  - display:
+      header: false
+    icon: steam
+    icon_pack: fab
+    link: https://steamcommunity.com/id/muskchina/
+  - display:
+      header: false
     link: https://weibo.com/u/6376943076
     icon_pack: fab
     icon: weibo
