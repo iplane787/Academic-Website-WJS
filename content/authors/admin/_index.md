@@ -45,6 +45,11 @@ social:
     icon_pack: ai
     icon: CV
     link: https://oceanexpert.org/expert/Jia-Shun-Wang
+  - display:
+      header: false
+    icon_pack: ai
+    icon: zotero
+    link: https://www.zotero.org/muskchina
 organizations:
   - name: Harbin Engineering University
     url: https://english.hrbeu.edu.cn/
