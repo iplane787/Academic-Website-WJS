@@ -19,6 +19,16 @@ social:
     link: https://www.researchgate.net/profile/Jia-Shun-Wang
     icon_pack: ai
     icon: researchgate
+  - display:
+      header: false
+    icon_pack: ai
+    icon: orcid
+    link: https://orcid.org/0000-0002-6442-9258
+  - display:
+      header: false
+    icon_pack: ai
+    icon: publons
+    link: https://publons.com/researcher/1838182/jia-shun-wang/
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/wang_jiashun
@@ -30,6 +40,11 @@ social:
     link: https://www.linkedin.com/in/iplane787
     display:
       header: false
+  - display:
+      header: false
+    icon_pack: ai
+    icon: CV
+    link: https://oceanexpert.org/expert/Jia-Shun-Wang
 organizations:
   - name: Harbin Engineering University
     url: https://english.hrbeu.edu.cn/
