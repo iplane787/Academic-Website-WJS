@@ -24,6 +24,8 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/iplane787
+    display:
+      header: false
 organizations:
   - name: Harbin Engineering University
     url: https://english.hrbeu.edu.cn/
