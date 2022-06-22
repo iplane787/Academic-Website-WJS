@@ -3,17 +3,15 @@ title: 互联网上的物理海洋学资讯
 subtitle: Welcome 👋 We know that first impressions are important, so we've
   populated your new site with some initial content to help you get familiar
   with everything in no time.
-date: 2022-06-22T13:24:44.635Z
-summary: Welcome 👋 We know that first impressions are important, so we've
-  populated your new site with some initial content to help you get familiar
-  with everything in no time.
+date: 2022-06-22T13:54:20.228Z
+summary: ""
 draft: false
 featured: false
 authors:
   - Jia-Shun Wang
 lastmod: 2020-12-13T00:00:00.000Z
 tags:
-  - Academic Intelligence
+  - 学术情报
 categories:
   - Blog
 projects: []
@@ -22,6 +20,7 @@ image:
   focal_point: ""
   placement: 2
   preview_only: false
+  filename: featured.jpg
 ---
 # 0 前言
 
@@ -266,12 +265,4 @@ office tool plus的开发者。有部分精品魔改软件
 # 9 后记
 
 这是一篇[永远会在气象家园修改的日志](http://bbs.06climate.com/home.php?mod=space&uid=130237&do=blog&id=6844)
-
-# 10 作者信息
-
-作者：若为雄才
-
-联系邮箱：wjs@outlook.at
-
-2021年12月26日
 
