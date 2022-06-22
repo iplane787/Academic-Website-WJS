@@ -3,7 +3,7 @@ slides: example
 url_pdf: ""
 summary: An example of using the in-built project page.
 url_video: ""
-date: 2016-04-27T00:00:00Z
+date: 2022-06-22T13:17:39.021Z
 external_link: ""
 url_slides: ""
 title: Example Project
