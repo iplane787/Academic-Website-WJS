@@ -1,7 +1,7 @@
 ---
 title: Jia-Shun Wang
 role: Postgraduate in Marine Science
-avatar_filename: 生活照.jpg
+avatar_filename: logo.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
