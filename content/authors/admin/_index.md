@@ -2,8 +2,7 @@
 title: Jia-Shun Wang
 role: Postgraduate in Marine Science
 avatar_filename: logo.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include Indian Ocean, Climate Change and Ocean Model.
 interests:
   - Physical Oceanography
   - Climate Variability
@@ -43,7 +42,7 @@ email: wjs@outlook.at
 superuser: true
 highlight_name: true
 ---
-My name is Jia-Shun Wang (王佳顺). It‘s pronounced as /wang dʒʌ soun/. For convenience, you can call me Jason Wang. Now I'm a postgraduate student studying Physical Oceanography in Harbin Engineering University (Qingdao) and The First Institute of Oceanography. I like collecting various websites and the DOIs of paper. I have lots of accounts on the Internet, such as twitter, facebook, github, steam, bilibili...So you can find me everywhere. （｡･ω･｡)つ━☆・*。 
+Hi, my name is Jia-Shun Wang (王佳顺). It‘s pronounced as /wang dʒʌ soun/. For convenience, you can call me Jason Wang. Now I'm a postgraduate student studying Physical Oceanography in Harbin Engineering University (Qingdao) and The First Institute of Oceanography. I like collecting various websites and the DOIs of paper. I have lots of accounts on the Internet, such as twitter, facebook, github, steam, bilibili...So you can find me everywhere. （｡･ω･｡)つ━☆・*。 
  U-5057-2018 ORCID:0000-0002-6442-9258
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
