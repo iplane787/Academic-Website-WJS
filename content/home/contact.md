@@ -68,5 +68,5 @@ content:
   email: wjs@outlook.at
   #email: wjs@hrbeu.edu.cn
 design:
-  columns: "1"
+  columns: "2"
 ---
