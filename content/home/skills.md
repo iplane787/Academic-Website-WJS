@@ -5,14 +5,14 @@ weight: 20
 title: Skills
 subtitle: null
 feature:    
-  - description: 89%
-    icon: pi
-    icon_pack: fab
-    name: Mathematics
-  - description: 75%
-    icon: atmo
-    icon_pack: fab
-    name: Physics
+#  - description: 89%
+#    icon: pi
+#    icon_pack: fab
+#    name: Mathematics
+#  - description: 75%
+#    icon: atmo
+#    icon_pack: fab
+#    name: Physics
   - description: 85%
     icon: water
     icon_pack: fab
@@ -25,5 +25,5 @@ feature:
     icon: python
     icon_pack: fab
     name: Python
-widget_id: test
+widget_id: test1
 ---
