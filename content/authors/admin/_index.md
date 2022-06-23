@@ -46,7 +46,7 @@ social:
       header: false
     icon_pack: ai
     icon: zotero
-    link: https://www.zotero.org/muskchina
+    link: https://www.zotero.org/muskchina/library
 organizations:
   - name: Harbin Engineering University
     url: https://english.hrbeu.edu.cn/
