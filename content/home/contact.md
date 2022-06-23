@@ -46,10 +46,6 @@ content:
       icon_pack: fab
       name: YouTube
       link: https://www.youtube.com/channel/UCbdUJCL0VpQELU82MHERsBg
-    - icon: weixin
-      icon_pack: fab
-      name: Wechat ID: iplane787
-#      link: 
     - icon: weibo
       icon_pack: fab
       name: Sina MicroBlog
