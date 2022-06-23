@@ -29,9 +29,6 @@ social:
     icon_pack: ai
     icon: publons
     link: https://publons.com/researcher/1838182/jia-shun-wang/
-#  - icon: twitter
-#    icon_pack: fab
-#    link: https://twitter.com/wang_jiashun
   - icon: github
     icon_pack: fab
     link: https://github.com/iplane787
@@ -50,11 +47,6 @@ social:
     icon_pack: ai
     icon: zotero
     link: https://www.zotero.org/muskchina
-#  - display:
-#      header: false
-#    icon_pack: fab
-#    icon: youtube
-#    link: https://www.youtube.com/channel/UCbdUJCL0VpQELU82MHERsBg
 organizations:
   - name: Harbin Engineering University
     url: https://english.hrbeu.edu.cn/
@@ -73,8 +65,9 @@ superuser: true
 highlight_name: true
 ---
 Hi, my name is Jia-Shun Wang. For convenience, you can call me Jason Wang. 
-
+I am majoring in Physical Oceanography.
 I like collecting various websites and the DOIs of paper. I have lots of accounts on the Internet, such as twitter, facebook, github, steam, bilibili...So you can find me everywhere. （｡･ω･｡)つ━☆・*。 
-ResearchID: U-5057-2018 ORCID: 0000-0002-6442-9258
+
+**This website is under construction.**
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
