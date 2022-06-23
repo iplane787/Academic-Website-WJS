@@ -5,7 +5,7 @@ headless: true
 weight: 130
 title: Contact
 subtitle: null
-#content:
+content:
 #  form:
 #    provider: netlify
 #    formspree:
@@ -49,7 +49,7 @@ subtitle: null
     - icon: weixin
       icon_pack: fab
       name: Wechat ID: iplane787
-      link: 
+#      link: 
     - icon: weibo
       icon_pack: fab
       name: Sina MicroBlog
