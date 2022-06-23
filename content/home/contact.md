@@ -13,9 +13,9 @@ content:
     netlify:
       captcha: false
   autolink: true
-  office_hours:
-    - Weekdays 08:30 to 21:00
-    - Weekends 09:00 to 18:00
+#  office_hours:
+#    - Weekdays 08:30 to 21:00
+#    - Weekends 09:00 to 18:00
   phone: +86 17325772985
   directions: 
   address:
@@ -62,7 +62,7 @@ content:
     latitude: "36.1023458"
     longitude: "119.6925715"
   email: wjs@outlook.at
-  email: wjs@hrbeu.edu.cn
+  #email: wjs@hrbeu.edu.cn
 design:
   columns: "2"
 ---
