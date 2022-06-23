@@ -6,12 +6,12 @@ weight: 130
 title: Contact
 subtitle: null
 content:
-  form:
-    provider: netlify
-    formspree:
-      ? id
-    netlify:
-      captcha: false
+#  form:
+#    provider: netlify
+#    formspree:
+#      ? id
+#    netlify:
+#      captcha: false
   autolink: true
 #  office_hours:
 #    - Weekdays 08:30 to 21:00
