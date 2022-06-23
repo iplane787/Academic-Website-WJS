@@ -53,43 +53,8 @@ social:
   - display:
       header: false
     icon_pack: fab
-    icon: skype
-    link: https://join.skype.com/invite/DToJACPEnoZR
-  - display:
-      header: false
-    icon_pack: fab
-    icon: telegram
-    link: https://t.me/muskchina
-  - display:
-      header: false
-    icon_pack: fab
     icon: youtube
     link: https://www.youtube.com/channel/UCbdUJCL0VpQELU82MHERsBg
-  - display:
-      header: false
-    icon: steam
-    icon_pack: fab
-    link: https://steamcommunity.com/id/muskchina/
-  - display:
-      header: false
-    link: https://weibo.com/u/6376943076
-    icon_pack: fab
-    icon: weibo
-  - display:
-      header: false
-    link: https://space.bilibili.com/35066480
-    icon_pack: fab
-    icon: bilibili
-  - display:
-      header: false
-    link: https://wpa.qq.com/msgrd?v=3&uin=1043210554&site=qqq&menu=yes
-    icon_pack: fab
-    icon: qq
-  - display:
-      header: false
-    icon_pack: fab
-    icon: zhihu
-    link: https://www.zhihu.com/people/ruo-wei-xiong-cai-23
 organizations:
   - name: Harbin Engineering University
     url: https://english.hrbeu.edu.cn/
@@ -97,7 +62,7 @@ organizations:
     url: http://en.fio.org.cn/
 education:
   courses:
-    - course: MS in Marine Science
+    - course: MSc in Marine Science
       institution: Harbin Engineering University
       year: 2024
     - course: BSc in Marine Science

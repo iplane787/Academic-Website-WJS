@@ -17,8 +17,7 @@ content:
     - Weekdays 08:30 to 21:00
     - Weekends 09:00 to 18:00
   phone: +86 17325772985
-  appointment_url: https://calendly.com
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  directions: 
   address:
     street: 6 XianXia Ridge
     city: Qingdao
@@ -29,16 +28,41 @@ content:
   contact_links:
     - icon: twitter
       icon_pack: fab
-      name: Wang_jiashun
-      link: https://twitter.com/Wang_jiashun
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: https://zoom.com
+      name: Twitter
+      link: https://twitter.com/Wang_jiashun    
+    - icon: skype
+      icon_pack: fab
+      name: skype
+      link: https://join.skype.com/invite/DToJACPEnoZR
+    - icon: telegram
+      icon_pack: fab
+      name: Telegram
+      link: https://t.me/muskchina
+    - icon: steam
+      icon_pack: fab
+      name: steam
+      link: https://steamcommunity.com/id/muskchina/
+    - icon: weibo
+      icon_pack: fab
+      name: Sina MicroBlog
+      link: https://weibo.com/u/6376943076
+    - icon: bilibili
+      icon_pack: fab
+      name: Bilibili
+      link: https://space.bilibili.com/35066480
+    - icon: qq
+      icon_pack: fab
+      name: QQ
+      link: https://wpa.qq.com/msgrd?v=3&uin=1043210554&site=qqq&menu=yes
+    - icon: zhihu
+      icon_pack: fab
+      name: Zhihu
+      link: https://www.zhihu.com/people/ruo-wei-xiong-cai-23
   coordinates:
-    latitude: "37.4275"
-    longitude: "-122.1697"
+    latitude: "36.1023458"
+    longitude: "119.6925715"
   email: wjs@outlook.at
+  email: wjs@hrbeu.edu.cn
 design:
   columns: "2"
 ---
