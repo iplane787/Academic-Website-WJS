@@ -27,8 +27,8 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Index
-      tag: Scientific Information
+    - name: Scientific Information
+      tag: Index
     - name: Academic Research
       tag: Academic Research
     - name: Technology Blog
