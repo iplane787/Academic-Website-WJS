@@ -19,7 +19,7 @@ content:
   phone: +86 17325772985
   directions: 
   address:
-    street: 6 XianXia Ridge
+    street: No.6 XianXia Ridge
     city: Qingdao
     region: Shandong
     postcode: "226061"
@@ -42,6 +42,10 @@ content:
       icon_pack: fab
       name: steam
       link: https://steamcommunity.com/id/muskchina/
+    - icon: youtube
+      icon_pack: fab
+      name: YouTube
+      link: https://www.youtube.com/channel/UCbdUJCL0VpQELU82MHERsBg
     - icon: weibo
       icon_pack: fab
       name: Sina MicroBlog
@@ -64,6 +68,5 @@ content:
   email: wjs@outlook.at
   #email: wjs@hrbeu.edu.cn
 design:
-  columns: "2"
+  columns: "3"
 ---
-test

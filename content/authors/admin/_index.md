@@ -29,9 +29,9 @@ social:
     icon_pack: ai
     icon: publons
     link: https://publons.com/researcher/1838182/jia-shun-wang/
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/wang_jiashun
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://twitter.com/wang_jiashun
   - icon: github
     icon_pack: fab
     link: https://github.com/iplane787
@@ -50,11 +50,11 @@ social:
     icon_pack: ai
     icon: zotero
     link: https://www.zotero.org/muskchina
-  - display:
-      header: false
-    icon_pack: fab
-    icon: youtube
-    link: https://www.youtube.com/channel/UCbdUJCL0VpQELU82MHERsBg
+#  - display:
+#      header: false
+#    icon_pack: fab
+#    icon: youtube
+#    link: https://www.youtube.com/channel/UCbdUJCL0VpQELU82MHERsBg
 organizations:
   - name: Harbin Engineering University
     url: https://english.hrbeu.edu.cn/
