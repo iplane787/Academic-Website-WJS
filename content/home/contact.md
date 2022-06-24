@@ -19,7 +19,7 @@ content:
   phone: +86 17325772985
   directions: 
   address:
-    street: No.6 XianXia Ridge
+    street: No.6 XianXia Ridge Road
     city: Qingdao
     region: Shandong
     postcode: "226061"
