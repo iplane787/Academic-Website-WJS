@@ -66,11 +66,11 @@ content:
       icon_pack: fab
       name: Zhihu
       link: https://www.zhihu.com/people/ruo-wei-xiong-cai-23
-    - icon: cloud-question
+    - icon: cloudversify
       icon_pack: fab
       name: Meteorological Home
       link: http://bbs.06climate.com/?130237
-    - icon: blogger-b
+    - icon: blogger
       icon_pack: fab
       name: ScienceNet.cn
       link: http://blog.sciencenet.cn/u/muskchina
