@@ -38,9 +38,9 @@ content:
       icon_pack: fab
       name: Telegram
       link: https://t.me/muskchina
-    - icon: goodread
+    - icon: goodreads
       icon_pack: fab
-      name: goodread
+      name: goodreads
       link: https://www.goodreads.com/jia-shun-wang
     - icon: steam
       icon_pack: fab
