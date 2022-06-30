@@ -38,6 +38,10 @@ content:
       icon_pack: fab
       name: Telegram
       link: https://t.me/muskchina
+    - icon: goodread
+      icon_pack: fab
+      name: goodread
+      link: https://www.goodreads.com/jia-shun-wang
     - icon: steam
       icon_pack: fab
       name: steam
@@ -62,6 +66,14 @@ content:
       icon_pack: fab
       name: Zhihu
       link: https://www.zhihu.com/people/ruo-wei-xiong-cai-23
+    - icon: cloud-question
+      icon_pack: fab
+      name: Meteorological Home
+      link: http://bbs.06climate.com/?130237
+    - icon: blogger-b
+      icon_pack: fab
+      name: ScienceNet.cn
+      link: http://blog.sciencenet.cn/u/muskchina
   coordinates:
     latitude: "36.1023458"
     longitude: "119.6925715"
