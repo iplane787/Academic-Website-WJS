@@ -70,4 +70,4 @@ I like collecting various websites and the DOIs of paper. I have lots of account
 
 **This website is under construction.**
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/wjs_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
