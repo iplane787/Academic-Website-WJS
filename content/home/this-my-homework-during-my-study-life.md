@@ -1,6 +1,6 @@
 ---
 widget: pages
-widget_id: This my homework during my study life.
+widget_id: Homework
 headless: true
 weight: 60
 title: My Homework
