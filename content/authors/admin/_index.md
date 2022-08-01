@@ -2,7 +2,7 @@
 title: Jia-Shun Wang
 role: Postgraduate in Marine Science
 avatar_filename: logo.png
-bio: My research interests include Indian Ocean, Climate Change and Ocean Model.
+bio: My research interests is Indian Ocean Circulation.
 interests:
   - Physical Oceanography
   - Climate Variability
