@@ -70,4 +70,4 @@ I like collecting various websites and the DOIs of paper. I have lots of account
 
 **This website is under construction.**
 
-{{< icon name="download" pack="fas" >}} 下载 {{< staticref "uploads/wjs_resume.pdf" "newtab" >}}我都中文简历(截至2022/08/01的版本){{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} 下载 {{< staticref "uploads/wjs_resume.pdf" "newtab" >}}我的中文简历{{< /staticref >}}(截至2022/08/01的版本).
