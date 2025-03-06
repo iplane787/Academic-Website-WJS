@@ -1,5 +1,5 @@
 ---
-title: Jia-Shun Wang
+title: Jiashun Wang
 role: Postgraduate in Marine Science
 avatar_filename: logo.png
 bio: My research interests is Indian Ocean Circulation.
